@@ -46,6 +46,7 @@ namespace Dolgozat2
 
         static void Main(string[] args)
         {
+            jelszoellenorzes();
         }
     }
 }
